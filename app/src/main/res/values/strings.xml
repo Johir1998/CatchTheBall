@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Catch The Ball</string>
+    <string name="Score_Text">Score : 300</string>
+    <string name="Start_Text">Tap to Play</string>
+    <string name="Main_Text">GAME OVER</string>
+    <string name="score_Text">Score : 150</string>
+    <string name="HighScore_Text">High Score : 300</string>
+    <string name="tryButton_Text">Try Again</string>
+    <string name="App_Text">Catch the Ball</string>
+    <string name="orangeBall_Text">10 point</string>
+    <string name="pinkBall_Text">30 point</string>
+    <string name="blackBall_Text">Game Over</string>
+    <string name="startButton_Text">START</string>
+
+    <string name="Title_Text">Alert title</string>
+    <string name="Message_Text">Do you want to exit?</string>
+
+</resources>
